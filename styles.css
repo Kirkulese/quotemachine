@@ -1,0 +1,40 @@
+body {
+    background-color:grey;
+}
+
+#quote-box {
+    top: 35vh;
+    margin: auto;
+    max-width: 25vw;
+    background-color: #ffcdb2;
+    border-radius: 10px;
+}
+
+#text {
+    color: #6d6875;
+}
+
+#author {
+    color: #6d6875;
+}
+
+#new-quote {
+    background-color: #e5989b;
+    border-color: #6d6875;
+    margin-top: 2vh;
+}
+
+#tweet-quote {
+    margin: auto;
+    margin-top: 10px;
+    text-decoration: none;
+    color: white;
+    
+}
+.fa {
+    vertical-align: middle;
+}
+
+#tweet-quote:hover {
+    color: #6d6875;
+}
